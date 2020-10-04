@@ -69,8 +69,8 @@ public class MainActivity extends AppCompatActivity {
                     fragmentTransaction.commit();
                 }
                 if(id==R.id.nav_sites){
-                    fragmentTransaction.replace(R.id.nav_host_fragment,new SitesFragment());
-                    fragmentTransaction.commit();
+                    Intent myIntent = new Intent(MainActivity.this,SitesActivity.class);
+                    startActivity(myIntent);
                 }
                 if(id==R.id.nav_social){
                     fragmentTransaction.replace(R.id.nav_host_fragment,new SocialFragment());
