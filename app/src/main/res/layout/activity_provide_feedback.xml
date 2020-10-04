@@ -31,16 +31,37 @@
         android:gravity="start|top"
         android:inputType="textMultiLine" />
 
-    <Button
-        android:id="@+id/sendBtn"
+
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/feedbackAns"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="22dp"
-        android:background="@color/colorPrimary"
-        android:text="Send"
-        android:textColor="@color/colorWhite" />
+        android:layout_marginTop="17dp">
+
+        <Button
+            android:id="@+id/sendBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@color/colorPrimary"
+            android:text="Send"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/colorWhite" />
+
+        <Button
+            android:id="@+id/clearBtn"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+
+            android:layout_marginLeft="20dp"
+            android:background="@color/colorPrimary"
+            android:text="Clear"
+            android:textColor="@color/colorWhite" />
+    </LinearLayout>
 
 
 </RelativeLayout>
