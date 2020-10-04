@@ -38,8 +38,6 @@ public class WeatherClimate extends AppCompatActivity {
 
     TextView cityName;
     TextView temp;
-
-
     TextView desc;
     ImageView weather_image;
     Button searchBtn;
