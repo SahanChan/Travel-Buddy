@@ -68,10 +68,6 @@ public class WeatherClimate extends AppCompatActivity {
                 weather_image.setImageResource(R.drawable.d02d);
             }
         });
-
-
-
-
     }
 }
 

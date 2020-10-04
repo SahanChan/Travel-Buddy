@@ -51,10 +51,6 @@ public class CustomListView extends ArrayAdapter<String> {
         viewHolder.tvw1.setText(sitesNames[position]);
         viewHolder.tvw2.setText(sitesDesc[position]);
         return r;
-
-
-
-
     }
 
     class ViewHolder{
