@@ -28,7 +28,7 @@
 
             android:paddingLeft="130dp"
 
-            android:text="Sigiriya"
+            android:text=""
             android:textSize="18sp"/>
 
         <TextView
@@ -40,6 +40,6 @@
 
             android:paddingLeft="130dp"
             android:layout_marginTop="30dp"
-            android:text="Sigitiya is a nice place" />
+            android:text="" />
     </RelativeLayout>
 </LinearLayout>

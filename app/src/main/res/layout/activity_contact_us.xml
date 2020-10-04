@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="20dp"
         android:layout_marginTop="66dp"
-        android:text="Call us: 0711111111"
+        android:text="@string/call_us"
         android:textSize="20sp" />
 
     <TextView
@@ -26,6 +26,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="20dp"
         android:layout_marginTop="121dp"
-        android:text="Send an Email at: travelbuddy@hotmail.com"
+        android:text="@string/send_email"
         android:textSize="20sp" />
 </RelativeLayout>

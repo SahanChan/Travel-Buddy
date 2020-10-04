@@ -18,7 +18,7 @@
 
             android:paddingLeft="50dp"
 
-            android:text="Duruthu Full Moon Poya Day"
+            android:text=""
             android:textSize="18sp"/>
 
         <TextView
@@ -30,7 +30,7 @@
 
             android:paddingLeft="50dp"
             android:layout_marginTop="40dp"
-            android:text="10/1/2020" />
+            android:text="" />
 
         <View
             android:layout_width="match_parent"
