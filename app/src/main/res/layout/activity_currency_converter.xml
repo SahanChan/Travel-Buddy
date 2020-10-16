@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".CurrencyConverter">
+    tools:context=".CurrencyConverter"
+    android:background="@drawable/ccback">
 
 
     <LinearLayout
@@ -26,6 +27,7 @@
             android:gravity="center_horizontal"
             android:paddingTop="10dp"
             android:text="@string/convert"
+            android:textColor="#000000"
             android:textSize="25sp"
             android:textStyle="bold" />
 
@@ -39,7 +41,7 @@
             android:gravity="center_horizontal"
 
             android:paddingTop="10dp"
-
+            android:textColor="#000000"
             android:text="@string/usd_to_lkr"
             android:textSize="20sp"
             android:textStyle="bold" />

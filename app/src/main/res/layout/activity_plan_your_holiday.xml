@@ -24,6 +24,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:layout_marginTop="28dp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
         android:text="@string/number_of_days_for_the_trip"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -35,6 +38,9 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="16dp"
         android:ems="10"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/number_of_days_for_the_trip"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -45,6 +51,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
         android:text="@string/other_notes"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName3"
@@ -72,6 +81,9 @@
         android:layout_marginStart="40dp"
         android:layout_marginTop="8dp"
         android:text="@string/number_of_places_to_visit"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
 
