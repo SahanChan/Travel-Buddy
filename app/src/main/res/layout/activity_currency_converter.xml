@@ -54,9 +54,9 @@
             android:layout_width="121dp"
             android:layout_height="wrap_content"
             android:layout_margin="30dp"
-            android:textColor="@color/colorWhite"
+            android:textColor="#171717"
             android:layout_weight="1"
-            android:background="@color/colorPrimary"
+            android:background="#97FFFFFF"
             android:text="@string/convert" />
 
 
@@ -70,6 +70,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="313dp"
+        android:textColor="@color/colorWhite"
         android:textSize="28sp" />
 
     <TextView
@@ -78,9 +79,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="224dp"
+        android:layout_marginBottom="200dp"
         android:text="@string/convertPrice"
         android:textSize="30sp"
+        android:textColor="@color/colorWhite"
         android:textStyle="bold" />
 
 
