@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".PlanYourHoliday">
+    tools:context=".PlanYourHoliday"
+    android:background="@drawable/train">
 
     <EditText
         android:id="@+id/editTextTextPersonName"
