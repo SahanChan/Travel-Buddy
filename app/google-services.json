@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "951778563519",
-    "firebase_url": "https://travel-buddy-7cdd9.firebaseio.com",
-    "project_id": "travel-buddy-7cdd9",
-    "storage_bucket": "travel-buddy-7cdd9.appspot.com"
+    "project_number": "63501817824",
+    "firebase_url": "https://travelbuddy-acef4.firebaseio.com",
+    "project_id": "travelbuddy-acef4",
+    "storage_bucket": "travelbuddy-acef4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:951778563519:android:a0a146df9d19314ea3fd0a",
+        "mobilesdk_app_id": "1:63501817824:android:a3559a044126c0340d3d85",
         "android_client_info": {
           "package_name": "com.example.travelbuddy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "951778563519-11gutc7n8jsi3uq2ouvd7j2tchke4u1n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.travelbuddy",
-            "certificate_hash": "9d3c35074de97428446b12f39842cb92a6fa3777"
-          }
-        },
-        {
-          "client_id": "951778563519-1mu1e3bjmi2s43ugih7adh0rkdb8vrf0.apps.googleusercontent.com",
+          "client_id": "63501817824-f5j7fileci2ct691neeo6ngbbvo2089j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBEjcKTxW3jBrp7Ly5SzDES7Psb7Y0YHLc"
+          "current_key": "AIzaSyBvzXF1SfmH1cDgjA81fwjeB_NTlK6NMVQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "951778563519-1mu1e3bjmi2s43ugih7adh0rkdb8vrf0.apps.googleusercontent.com",
+              "client_id": "63501817824-f5j7fileci2ct691neeo6ngbbvo2089j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
